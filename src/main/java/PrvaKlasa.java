@@ -7,5 +7,8 @@ public class PrvaKlasa {
 
 
         System.out.println("POZZZZ");
+
+
+        System.out.println("sdffsddfsfdsdfsdsf");
     }
 }
